@@ -136,6 +136,8 @@ p{
 }
 .newsletter .half-width img{
     width: 60%;
+    margin-left:70px;
+    padding: 20px 0;
 }
 .app-img {
     background-image: url(./images/pictures/app.png);
